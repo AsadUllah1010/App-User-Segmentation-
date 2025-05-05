@@ -12,3 +12,7 @@ In the highly competitive world of apps, businesses and app developers need to u
 6. New Password Request: The number of times the user requested a new password;
 7. Last Visited Minutes: Minuted passed by when the user was last active;
 8. Status: Installed if the application is installed and uninstalled if the user has deleted the application
+# Conclusion
+The blue segment shows the segment of users the app has retained over time. The red segment indicates the segment of users who just uninstalled the app or are about to uninstall it soon. And the green segment indicates the segment of users that the application has lost. So this is how you can segment users based on how they engage with the app. App users segmentation helps businesses find retained users, find the user segment for a marketing campaign, and solve many other business problems where you need to search for users based on similar characteristics.
+# Contributing
+If you are interested in contributing to the project, please create a fork of the repository and submit a pull request. All contributions are welcome and appreciated.
